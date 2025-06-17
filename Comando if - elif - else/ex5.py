@@ -20,6 +20,9 @@ elif op == 2:
 elif op == 3: 
     print(f"{n} x {n2} = {n * n2}")
 elif op == 4:
-    print(f"{n} / {n2} = {n // n2}")  
+    if n2 != 0:
+        print(f"{n} / {n2} = {n // n2}")
+    else:
+        print("Divisão por zero!")
     
               
