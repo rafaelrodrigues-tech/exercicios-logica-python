@@ -2,8 +2,8 @@
 usuário escolher entre: 1 - Somar; 2 - Subtrair; 3 - Multiplicar; 4 - Dividir. O usuário só 
 conseguirá processar dois números inteiros por vez."""
 
-n = int(input("Digite um número: "))
-n2 = int(input("Digite o segundo número: "))
+n = float(input("Digite um número: "))
+n2 = float(input("Digite o segundo número: "))
 
 print("Escolha uma opção abaixo:")
 print("""
