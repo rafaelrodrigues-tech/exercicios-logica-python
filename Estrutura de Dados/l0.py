@@ -16,4 +16,3 @@ print(f"Média = {sum(l)/len(l):.2f}")
 print("Números: ",end="")
 for elem in l:
     print(elem," ",end=" ")
-   
