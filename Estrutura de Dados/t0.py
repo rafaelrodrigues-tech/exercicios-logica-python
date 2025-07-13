@@ -7,3 +7,4 @@ print(f"Conteúdo: {tupla}")
 print(f"Quantidade de elementos: {qtdd}")
 print(f"São {sete} elementos iguais a 7.")
 print(f"Elemento na quinta posição: {tupla[4]} ")
+
