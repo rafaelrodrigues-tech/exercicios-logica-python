@@ -10,4 +10,3 @@ print(f"\nSeu nome completo : {nome_sobrenome}")
 print(f"Seu nome completo tem {comp_nomesob} letras.")
 print(f"Seu nome tem {comp_nome} letras.")
 print(f"Seu sobrenome tem {comp_sob} letras.")
-
