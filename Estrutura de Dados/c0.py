@@ -13,4 +13,3 @@ print(f"A intersecção entre A ⋂ B = {A.intersection(B)}")
 print(f"A diferença entre A - B = {A.difference(B)}")
 
 print("~"*45)
-
