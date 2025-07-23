@@ -10,5 +10,5 @@ for i in range(5):
     v.append(float(input(f"Insira um valor para a posição {i+1}: ")))
 
 for i in range(len(v)):
-    v[i] = v[1] / 100
+    v[i] = v[i] / 100
 print(f"\nConteúdo dividido por 100: {v}")    
