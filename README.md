@@ -1,4 +1,4 @@
-# exercicios-logica-python
+# Exercícios de Lógica em Python 🧠🐍
 
-💻 Repositório criado para acompanhar meu progresso no estudo de lógica de programação usando Python.  
-   Exercícios feitos com base no Curso de Lógica de Programação em Python - Prof. Me. Pietro Martins de Oliveira.
+Este repositório contém resoluções de exercícios de lógica de programação feitos em Python, como parte dos meus estudos no curso de Análise e Desenvolvimento de Sistemas. 
+Cada exercício aborda conceitos fundamentais de lógica e estrutura de programação.
