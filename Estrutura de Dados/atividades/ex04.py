@@ -10,7 +10,3 @@ for i in range(3):
     vetor.append(num)
     
 while cont <= num:
-    if cont % num == 0:
-        cont += 1
-
-print(cont)
