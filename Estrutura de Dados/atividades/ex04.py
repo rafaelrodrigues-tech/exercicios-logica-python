@@ -4,9 +4,13 @@ respectivas posições."""
 
 vetor = []
 cont = 1
-soma = 0
 
 for i in range(3):
-    msg = "\nInsira um valor para a posição " + str(i+1) + ": "
-    vetor.append((int(input(msg))))
+    num = int(input(f"Insira um número na posição {i+1}: "))
+    vetor.append(num)
     
+while cont <= num:
+    if cont % num == 0:
+        cont += 1
+
+print(cont)
