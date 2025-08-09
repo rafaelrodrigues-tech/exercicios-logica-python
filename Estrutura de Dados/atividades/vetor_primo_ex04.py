@@ -1,4 +1,5 @@
 # Carregando um vetor de 9 números e identificando quais elementos são números primos.
+from time import sleep
 vetor = []
 primos = []
 for i in range(9):
@@ -17,5 +18,6 @@ for i in range(9):
     if divisores == 2:
         primos.append(elem)
 
-print("\n📝Resultado: ")
-print(f"Números Primos: {primos}")
+print("\nVerificando Números primos... ")
+sleep(1) # Pausa dramática antes de mostrar o resultado
+print(f"Números Primos: {primos}") 
