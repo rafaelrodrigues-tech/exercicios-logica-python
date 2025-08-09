@@ -7,11 +7,13 @@ for i in range(9):
     contador = 1
     divisores = 0
     
+    # Conta quantos divisores o número possui
     while contador <= elem:
         if elem % contador == 0:
-            divisores += 1 # Soma 1 para cada divisor
+            divisores += 1  # Encontrou um divisor
         contador += 1
      
+    # Se número tem exatamente 2 divisores, é primo
     if divisores == 2:
         primos.append(elem)
 
