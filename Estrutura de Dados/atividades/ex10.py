@@ -3,7 +3,6 @@
 multiplicada pelo maior elemento da matriz. """
 
 matriz = []
-bigger = counter = 0
 for i in range(2):
     linha = []
     for j in range(2):
